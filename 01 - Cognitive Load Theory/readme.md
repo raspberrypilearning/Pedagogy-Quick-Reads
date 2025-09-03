@@ -1,10 +1,6 @@
 # Thoughtful instructional design reduces learners’ cognitive load in computing
 
-Cognitive load theory (CLT) is not a new idea, in that the challenges
-associated with designing effective teaching within the limit of working
-memory have been studied over the last two decades.[^1][^2] Whilst the theory
-isn’t universally established, it has been applied in many settings, and
-offers some important insights for computing educators.
+Cognitive load theory (CLT) is not a new idea, in that the challenges associated with designing effective teaching within the limit of working memory have been studied over the last two decades.[^1][^2] Whilst the theory isn’t universally established, it has been applied in many settings, and offers some important insights for computing educators.
 
 ![Image](Image)
 
