@@ -24,3 +24,9 @@ or schemas.
 
 The goal of effective learning design should therefore be to facilitate the
 movement of new ideas and information from working memory into conceptually sound schemas.
+
+
+
+
+## References
+[^1]: My reference.
