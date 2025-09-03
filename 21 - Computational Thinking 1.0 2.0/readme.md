@@ -39,7 +39,7 @@ Without CT2.0, today’s learners will remain passive consumers rather than info
 * In CT2.0, ML models are opaque black boxes. Problems are found through analyses of the input and output data.
 * This requires a shift in the debugging mindset, focusing on improving training data, tuning parameters, and testing with a diverse range of data.
 
-### References
+## References
 
 1. Tedre, M., et al. (2021). CT 2.0. [the-cc.io/qr21\_1](the-cc.io/qr21_1)
 2. Vartiainen, H., et al. (2021). Machine learning for middle schoolers: Learning through data-driven design. [the-cc.io/qr21\_2](the-cc.io/qr21_2)
