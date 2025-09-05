@@ -6,9 +6,9 @@ Feedback is essential in any teaching and learning context. Hattie and Timperley
 
 Three theories (**feedback types**, **student feedback literacy**, and **teacher feedback literacy**) are useful to think about within a feedback literacy framework[^6]. Each of these component theories has been developed with the idea that the teacher and student are interacting directly rather than an AI application providing the feedback. However, in research on how teachers might use AI tools in computer science classrooms to help students learn to program, Cucuiat and Waite (2024) found that feedback literacy was essential to analyse how AI-enhanced explanations can be introduced for student use[^6].
 
-!\[Image\](Image)
+! [Image ](Image)
 
-\[figcaption\]The three theories of feedback types[^1], student feedback literacy[^2], and teacher feedback literacy[^3] are interconnected and may also influence developers and AI applications (inspired by Rohlfing et al.\[^5\]).
+ [figcaption ]The three theories of feedback types[^1], student feedback literacy[^2], and teacher feedback literacy[^3] are interconnected and may also influence developers and AI applications (inspired by Rohlfing et al. [^5]).
 
 ## Feedback types
 
@@ -52,7 +52,7 @@ Feedback literacy can help teachers to: 
 *   Consider how and when AI-produced feedback might enrich or even replace existing teacher-student dialogue 
 *   Teach students about feedback literacy and support students in developing and applying their own feedback literacy 
 
-As time goes on, teachers may also demand more from AI tools, expecting functionalities such as the ability to turn off feedback in the form of telling and have feedback only in the form of guiding, to better lead students towards pre-defined learning objectives and feedforward to useful knowledge building.
+As time goes on, teachers may also demand more from AI tools, expecting functionalities such as the ability to turn off feedback in the form of telling and have feedback only in the form of guiding, to better lead students towards pre-defined learning objectives and feed forward to useful knowledge building.
 
 ## Key concepts
 
@@ -88,6 +88,6 @@ Teacher competencies related to feedback, which include the ability to design fe
 
 [^7]: van Heerden, M. (2021). (How) do written comments feed-forward? A translation device for developing tutors’ feedback-giving literacy. [the-cc.io/qr23\_7](the-cc.io/qr23_7)
 
-\[^8\]: Kazemitabaar, M., et al. (2023). Studying the effect of AI code generators on supporting novice learners in introductory programming. [the-cc.io/qr23\_8](the-cc.io/qr23_8)
+ [^8]: Kazemitabaar, M., et al. (2023). Studying the effect of AI code generators on supporting novice learners in introductory programming. [the-cc.io/qr23\_8](the-cc.io/qr23_8)
 
-\[Source pdf\](https://static.raspberrypi.org/files/curriculum/quickreads/23-Pedagogy_Summary_Feedback_Literacy_2025.pdf)
+[Source pdf](https://static.raspberrypi.org/files/curriculum/quickreads/23-Pedagogy_Summary_Feedback_Literacy_2025.pdf)
