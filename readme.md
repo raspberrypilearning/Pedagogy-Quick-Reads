@@ -2,7 +2,7 @@
 
 Intro
 
-!\[Image\](Image)
+![Image](Image)
 
 ## Subsection 1
 
@@ -17,6 +17,8 @@ Table
 | ----------- | ----------- |
 | Header      | Title       |
 | Paragraph   | Text        |
+
+[Table Markdown creator](https://www.tablesgenerator.com/markdown_tables)
 
 ## Subsection 3
 
@@ -40,4 +42,4 @@ Text text text
 
 -----
 
-\[Source pdf\](link url)
+[Source pdf](link url)
