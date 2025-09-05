@@ -14,7 +14,12 @@ Three theories (**feedback types**, **student feedback literacy**, and **teacher
 
 The four feedback types (**telling**, **guiding**, **developing understanding**, and **opening up**) are simple ways of describing the feedback created by people and by systems[^1] .
 
-<table><tbody><tr><td>Feedback type</td><td>Educator role</td><td>Student role</td></tr><tr><td>Telling</td><td>Unidrectionally transmit ‘correct’ information</td><td>Passive</td></tr><tr><td>Guiding</td><td>Point in the right direction</td><td>Active — apply knowledge</td></tr><tr><td>Developing understanding</td><td>Provide targeted teaching</td><td>Active — construct or adjust knowledge</td></tr><tr><td>Opening up</td><td>Present new perspectives</td><td>Active — interpret and evaluate new knowledge</td></tr></tbody></table>
+| Feedback type | Educator role | Student role |
+| ----------- | ----------- | ----------- | 
+| Telling | Unidrectionally transmit ‘correct’ information | Passive |
+| Guiding | Point in the right direction | Active — apply knowledge |
+| Developing understanding | Provide targeted teaching | Active — construct or adjust knowledge |
+| Opening up | Present new perspectives | Active — interpret and evaluate new knowledge |
 
 When exploring AI system-produced explanations of program error messages, teachers have asked for feedback in the form of telling to be avoided; such feedback can lead to students becoming over-reliant on AI systems and not actively learning themselves. Teachers would prefer students to not be told the answers but instead guided to them. 
 
