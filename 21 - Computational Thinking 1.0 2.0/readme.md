@@ -2,7 +2,7 @@
 
 **Computational Thinking (CT)** has become a cornerstone of computing education. CT2.0 has recently been introduced by Matti Tedre and his team[^1] to help learners distinguish between traditional rule-based approaches (CT1.0) to problem solving, and the data-driven approaches (CT2.0) used by AI systems. As systems increasingly include both rule-based and data-driven elements, it is essential for learners to understand the differences and to be able to work with both paradigms.
 
-## ![](https://file+.vscode-resource.vscode-cdn.net/Users/andy.bush/Documents/GitHub/Pedagogy-Quick-Reads/Images/QR21%20-%20CT%201.0_2.0.png?version%3D1756896253088)
+## ![](images/QR21_CT_1.0_2.0.png)
 
 ## Problem solving
 
