@@ -14,8 +14,8 @@ Worked examples demonstrate an ‘expert’ solution to a problem and are used i
 
 * Include sub-goal labelling to highlight structure and common programming ‘patterns’
 * Present relevant information in an integrated manner
-  Combine multiple modes of delivery,such as visual and aural explanations
-* May only be partial and require learners to complete them as partof exploration
+* Combine multiple modes of delivery, such as visual and aural explanations
+* May only be partial and require learners to complete them as part of exploration
 
 #### In a learning sequence:
 
@@ -48,7 +48,7 @@ There are typically two types of worked examples[^3] found in literature. Both s
 * **Process-oriented examples** model the steps taken to reach a particular solution. They may be **written down**, demonstrated by an expert, or **captured on video**.
 * **Product-oriented examples** model one possible solution and allow learners to examine and apply the solution to a new context.
   
-  There is evidence that complete novices benefit from process-oriented worked examples, as they provide rationale for each aspect of the solution. Learners with some experience will then benefit more from product-oriented examples, from which they can infer the rationale.
+There is evidence that complete novices benefit from process-oriented worked examples, as they provide rationale for each aspect of the solution. Learners with some experience will then benefit more from product-oriented examples, from which they can infer the rationale.
 
 ## Designing worked examples
 
