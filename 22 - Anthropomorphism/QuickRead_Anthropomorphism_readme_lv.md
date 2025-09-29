@@ -59,7 +59,7 @@ iespējām, kā arī zaudē lietotāju rīcībspēju[^3].
 
 Pedagogi var izvairīties no mākslīgā intelekta sistēmu antropomorfizācijas,
 
-- Nelietot MI kā skaitāmu lietvārdu, kā tas ir vārdos “ MI”
+- Nelietot MI kā skaitāmu lietvārdu, kā tas ir vārdos “MI”
 - Vārdu, piemēram, “klausās”, “saprot” un “rada”, aizstāšana ar vārdiem “reģistrē”, “analizē” un “ģenerē”
 - Lietojot terminu MI tāpat kā “bioloģija” vai “kiberdrošība”
 
