@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "f0eef562069fcab2",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4b50870872a553f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76bd6ab0dd6a5c21",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9e4a2d9f5410637d",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd0dfc84dde07afb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32d4b990f1d2b50a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8b6dd482fe7b5976",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "485409bcb091e614",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "60f7673ca5481d2b",
+    "type": "split",
+    "children": [
+      {
+        "id": "cdcc3ab889a900c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3861c9c772f7424f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "21 - Computational Thinking 1.0 2.0/QuickRead_Computational-thinking_readme_el.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for QuickRead_Computational-thinking_readme_el"
+            }
+          },
+          {
+            "id": "18e15cf8eb7df8de",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "21 - Computational Thinking 1.0 2.0/QuickRead_Computational-thinking_readme_el.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from QuickRead_Computational-thinking_readme_el"
+            }
+          },
+          {
+            "id": "3de3dbbf6cdefbbc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b65dd6822e9513d8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "21 - Computational Thinking 1.0 2.0/QuickRead_Computational-thinking_readme_el.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of QuickRead_Computational-thinking_readme_el"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "76bd6ab0dd6a5c21",
+  "lastOpenFiles": [
+    "23 - Feedback Literacy in AI/QuickRead_Feedback-literacy_readme_es.md",
+    "23 - Feedback Literacy in AI/QuickRead_Feedback-literacy_readme_el.md",
+    "21 - Computational Thinking 1.0 2.0/QuickRead_Computational-thinking_readme_el.md",
+    "21 - Computational Thinking 1.0 2.0/QuickRead_Computational-thinking_readme_lt.md",
+    "21 - Computational Thinking 1.0 2.0/QuickRead_Computational-thinking_readme_es.md"
+  ]
+}
