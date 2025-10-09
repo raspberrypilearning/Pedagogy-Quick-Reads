@@ -1,0 +1,42 @@
+// Imports the base styles from Quartz
+@use "./base.scss";
+
+// --- [ START ] Final Fixed Layout ---
+
+// 1. Reset the body to override the theme's conflicting grid layout
+
+.full-width {
+  width: 100%;
+}
+
+#quartz-root {
+  display: flex;
+  flex-direction: column;
+  height: 100vh; // Full viewport height
+}
+
+header {
+  flex-shrink: 0; // Prevent the header from shrinking
+  border-bottom: 2px solid var(--lightgray);
+ overflow: hidden;
+}
+
+#quartz-body {
+  flex-grow: 1; // Allow the body to take up all remaining vertical space
+overflow: auto;
+  display: grid;
+  grid-template-columns: 20rem 1fr 20rem;
+
+  // Add vertical borders between the columns
+  > .sidebar.left {
+    border-right: 2px solid var(--lightgray);
+  }
+  > .sidebar.right {
+    border-left: 2px solid var(--lightgray);
+  }
+}
+
+
+.sidebar {
+  overflow: hidden; // Add a scrollbar only if their own content is too tall
+}
