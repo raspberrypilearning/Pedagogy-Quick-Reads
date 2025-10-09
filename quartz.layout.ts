@@ -97,9 +97,9 @@ export const defaultContentPageLayout: PageLayout = {
 }),
   ],
   right: [
-    Component.Graph(),
+    
     Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(), // Add your new component here
+     // Add your new component here
   ],
 }
 
@@ -122,11 +122,10 @@ export const defaultListPageLayout: PageLayout = {
   order: ["filter", "map", "sort"],
 }),
   ],
-  right: [Component.Graph(),
+  right: [
     
     Component.DesktopOnly(Component.TableOfContents()),
      // Add your new component here
-    
-     Component.Backlinks(),
+  
   ],
 }
