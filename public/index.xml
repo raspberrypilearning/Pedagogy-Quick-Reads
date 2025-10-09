@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Pedagogy Quick Reads</title>
+      <link>https://https://raspberrypilearning.github.io/Pedagogy-Quick-Reads/</link>
+      <description>Last 10 notes on Pedagogy Quick Reads</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Using worked examples supports novices to develop their programming practice</title>
+    <link>https://https://raspberrypilearning.github.io/Pedagogy-Quick-Reads/QR01</link>
+    <guid>https://https://raspberrypilearning.github.io/Pedagogy-Quick-Reads/QR01</guid>
+    <description><![CDATA[  Summary Human memory Working memory is extremely limited Long-term memory has no known limits Learning occurs when new knowledge is transferred from working to long-term memory Schemas are structured collections of prior learning that can be recalled from long-term memory Schemas only occupy a sing... ]]></description>
+    <pubDate>Thu, 09 Oct 2025 19:56:54 GMT</pubDate>
+  </item><item>
+    <title>Using worked examples supports novices to develop their programming practice</title>
+    <link>https://https://raspberrypilearning.github.io/Pedagogy-Quick-Reads/QR02</link>
+    <guid>https://https://raspberrypilearning.github.io/Pedagogy-Quick-Reads/QR02</guid>
+    <description><![CDATA[ Worked examples demonstrate an ‘expert’ solution to a problem and are used in many subjects to support novices, who use the examples as blueprints for solving new but related problems. ]]></description>
+    <pubDate>Thu, 09 Oct 2025 19:56:54 GMT</pubDate>
+  </item><item>
+    <title>Pair programming supports learners to produce better solutions to complex programming problems</title>
+    <link>https://https://raspberrypilearning.github.io/Pedagogy-Quick-Reads/QR03</link>
+    <guid>https://https://raspberrypilearning.github.io/Pedagogy-Quick-Reads/QR03</guid>
+    <description><![CDATA[ Pair programming is a pedagogical approach that you can use in your classroom which involves learners working together on a problem to develop programs. ]]></description>
+    <pubDate>Thu, 09 Oct 2025 19:56:54 GMT</pubDate>
+  </item><item>
+    <title>Using peer instruction in lessons helps students learn, retain, and discuss computing concepts</title>
+    <link>https://https://raspberrypilearning.github.io/Pedagogy-Quick-Reads/QR04</link>
+    <guid>https://https://raspberrypilearning.github.io/Pedagogy-Quick-Reads/QR04</guid>
+    <description><![CDATA[ Peer instruction (PI) is an instructional technique first proposed in the 1990s by Eric Mazur,1 whose research demonstrated the benefits of focused discussion for pupils’ understanding and retention in physics. ]]></description>
+    <pubDate>Thu, 09 Oct 2025 19:56:54 GMT</pubDate>
+  </item><item>
+    <title>Live coding: using the thought processes of a programmer to bring coding to life</title>
+    <link>https://https://raspberrypilearning.github.io/Pedagogy-Quick-Reads/QR05</link>
+    <guid>https://https://raspberrypilearning.github.io/Pedagogy-Quick-Reads/QR05</guid>
+    <description><![CDATA[ When learners read static, completed programs, they aren’t exposed to the troubleshooting that has already taken place to get to that end product; this is known as being product focused. ]]></description>
+    <pubDate>Thu, 09 Oct 2025 19:56:54 GMT</pubDate>
+  </item><item>
+    <title>Improving explanations and learning activities in computing using semantic waves</title>
+    <link>https://https://raspberrypilearning.github.io/Pedagogy-Quick-Reads/QR06</link>
+    <guid>https://https://raspberrypilearning.github.io/Pedagogy-Quick-Reads/QR06</guid>
+    <description><![CDATA[ Semantic waves’ describe an ideal conceptual journey for novice learners to follow, shifting between expert and novice understanding, abstract and concrete context, and technical and simple meanings. ]]></description>
+    <pubDate>Thu, 09 Oct 2025 19:56:54 GMT</pubDate>
+  </item><item>
+    <title>Using concept maps to capture, communicate, construct, and assess knowledge</title>
+    <link>https://https://raspberrypilearning.github.io/Pedagogy-Quick-Reads/QR07</link>
+    <guid>https://https://raspberrypilearning.github.io/Pedagogy-Quick-Reads/QR07</guid>
+    <description><![CDATA[ Concept maps are “graphical tools for organising and representing knowledge”.1 Fundamentally, they consist of concepts and the labelled links between them, which together describe knowledge in the form of statements or propositions. ]]></description>
+    <pubDate>Thu, 09 Oct 2025 19:56:54 GMT</pubDate>
+  </item><item>
+    <title>Planning and reflecting on distance learning in the context of &#039;emergency remote teaching&#039;</title>
+    <link>https://https://raspberrypilearning.github.io/Pedagogy-Quick-Reads/QR08</link>
+    <guid>https://https://raspberrypilearning.github.io/Pedagogy-Quick-Reads/QR08</guid>
+    <description><![CDATA[ The exceptional events of 2020 have dramatically altered the way that education is delivered to students around the world. ]]></description>
+    <pubDate>Thu, 09 Oct 2025 19:56:54 GMT</pubDate>
+  </item><item>
+    <title>Planning effective surveys and interviews for research or evaluation</title>
+    <link>https://https://raspberrypilearning.github.io/Pedagogy-Quick-Reads/QR09</link>
+    <guid>https://https://raspberrypilearning.github.io/Pedagogy-Quick-Reads/QR09</guid>
+    <description><![CDATA[ Surveys and interviews are common tools used by researchers to understand participants’ perceptions, attitudes, and feelings. ]]></description>
+    <pubDate>Thu, 09 Oct 2025 19:56:54 GMT</pubDate>
+  </item><item>
+    <title>Using observation techniques to record student behaviour for research or evaluation</title>
+    <link>https://https://raspberrypilearning.github.io/Pedagogy-Quick-Reads/QR10</link>
+    <guid>https://https://raspberrypilearning.github.io/Pedagogy-Quick-Reads/QR10</guid>
+    <description><![CDATA[ Classroom action research is an effective approach that teachers can use to embed evidence-based pedagogies into their practice. ]]></description>
+    <pubDate>Thu, 09 Oct 2025 19:56:54 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>

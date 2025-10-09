@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Teaching and Learning Hub",
+    pageTitle: "Pedagogy Quick Reads",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -16,8 +16,8 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-GB",
-    baseUrl: "teaching-learning-docs.rpf-internal.org",
-    github: "https://github.com/RaspberryPiFoundation/teaching-learning-documentation/",
+    baseUrl: "https://raspberrypilearning.github.io/Pedagogy-Quick-Reads/",
+    github: "https://github.com/raspberrypilearning/Pedagogy-Quick-Reads/settings/pages",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
